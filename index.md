@@ -9,3 +9,5 @@ Learning how to add a photo to a file.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Learning how to add a code block to a afile. 
